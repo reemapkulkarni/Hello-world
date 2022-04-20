@@ -1,3 +1,3 @@
 # Hello-world
-Getting started
-some description.
+Getting started.
+some description!
